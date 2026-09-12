@@ -2,96 +2,103 @@
 
 
 
-# [Project Name] 🎯
+# [Leviosa] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Glitch]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Fathima Sadiya PN] - [Ansar Womens College]
+- Member 2: [Fathima Sahala AS] - [Ansar Womens College]
 
 ### Project Description
-[2-3 lines about what your project does]
+[LEViosa is a Hogwarts-inspired personality quiz that sorts users into one of 10 iconic characters based on their answers to 10 fun questions.
+It generates a personalized magical report with stats, roasts, strengths, weaknesses, and Hogwarts survival probability.
+]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[People urgently need to know which Hogwarts character they are.
+LEViosa solves this critical problem by analyzing their questionable decisions and delivering a completely unnecessary magical personality diagnosis.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[We built a magical personality quiz that analyzes your questionable decisions and sorts you into a Hogwarts-inspired character — complete with stats, roasts, and a highly questionable survival probability.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [HTML, CSS, JavaScript]
+- [React]
+- [Lucide React]
+- [Lovable, Cursor, GitHub, VS Code]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [Laptop/Desktop]
+- [Internet connection, modern web browser]
+- [None]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[npm install]
 
 # Run
-[commands]
+[npm run dev]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1](<img width="1406" height="685" alt="leviosa_home" src="https://github.com/user-attachments/assets/bcf914e9-db7f-45de-b5fc-85771c0a8eb7" />
+)<img width="1427" height="684" alt="leviosa_quiz" src="https://github.com/user-attachments/assets/145a19a9-2b23-4a7e-bfdb-1a2fb649955c" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+*The LEViosa homepage featuring the Sorting Hat and quiz introduction.*
+
+![Screenshot2](<img width="1427" height="684" alt="leviosa_quiz" src="https://github.com/user-attachments/assets/270719e6-9688-483b-8a5a-46d117a2bba8" />
+)
+*The interactive quiz where users answer 10 magical personality questions.*
+
+![Screenshot3](<img width="1405" height="673" alt="leviosa_result" src="https://github.com/user-attachments/assets/c5712a0d-4dd6-475f-80e8-ba46eb550a47" />
+)
+*The final character result with personality stats, roast, and magical diagnosis.*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Workflow](<img width="1536" height="1024" alt="workflow" src="https://github.com/user-attachments/assets/f928c66d-2494-4f30-a2d5-a6f5ea32fbe7" />
+)
+*From the user's quiz journey through answer evaluation and character matching to the final result and exploration.*
 
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+![Circuit](None)
+*LEViosa is a software-only web application and does not require any hardware components, circuits, or schematics.*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+![Schematic](None)
+*LEViosa is a software-only web application and does not require any hardware components, circuits, or schematics.*
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+![Components](None)
+*Not applicable — LEViosa is a software-only web application and does not involve physical components or a hardware build process.*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+![Build](None)
+*Not applicable — LEViosa is a software-only web application and does not involve physical components or a hardware build process.*
 
-![Final](Add photo of final product here)
-*Explain the final build*
+![Final](None)
+*Not applicable — LEViosa is a software-only web application and does not involve physical components or a hardware build process.*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[None]
+*leviosa is a software application*
 
 # Additional Demos
-[Add any extra demo materials/links]
+[None]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Fathima Sahala AS]: [Frontend development, testing, and project support]
+- [Fathima Sadiya PN ]: [UI/UX design, frontend development, quiz logic, and content]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
